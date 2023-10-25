@@ -77,7 +77,7 @@ ul.menu {
 
 .menu li a:hover {
   color: midnightblue;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /*=============================Banner=============================*/
@@ -662,5 +662,5 @@ ul.menu {
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-  }
+ }
 }
